@@ -196,8 +196,8 @@ Target_Hash_Tags = ['#HarvardHealth','#WeightLoss','#Drug','#Medicine','#inflamm
 
 
 # List of handles that we are monitoring
-List_of_handles_to_monitor = ["@MonikerAsh","@ruchichandra26","@one171717","@IBaloyan","@KarnaniDeepa","@JAVillalbaUs","@JillStratton78",
-"@JonathanGroth1","@data_stew","@Mike3dup","@TheRealAndrew19","@fervis_lauan","@pvenk14","@JingXu35625367","@MegNew2","@Pragati43524667"]
+List_of_handles_to_monitor = ["@Riicha_r ","@MonikerAsh","@ruchichandra26","@one171717","@IBaloyan","@KarnaniDeepa","@JAVillalbaUs","@JillStratton78",
+"@JonathanGroth1","@data_stew","@Mike3dup","@TheRealAndrew19","@fervis_lauan","@pvenk14","@JingXu35625367","@MegNew2","@Pragati43524667","@WaqasIs69506672"]
 
 #['@HarvardHealth','@katyperry','@BarackObama','@taylorswift13','@ladygaga','@TheEllenShow','@Cristiano','@jtimberlake','@BritneySpears','@ArianaGrande','@ddlovato']
 
